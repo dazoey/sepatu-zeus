@@ -52,3 +52,4 @@ Tambahkan parameter `status` untuk memfilter data.
 **Contoh Request:**
 ```bash
 GET https://sepatu-zeus.vercel.app/items?status=Selesai
+# sepatu-zeus
