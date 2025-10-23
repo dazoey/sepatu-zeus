@@ -45,7 +45,7 @@ Data disimpan di **Supabase** dengan struktur tabel `items` seperti berikut:
 
 ## 🔗 Endpoint API
 
-### 1. **GET /items**
+### 1. **GET /item**
 Ambil seluruh daftar sepatu.  
 Tambahkan parameter `status` untuk memfilter data.
 
